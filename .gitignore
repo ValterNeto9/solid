@@ -1,1 +1,8 @@
+# Dependency directories
 node_modules/
+build/
+coverage/
+
+# Optional npm cache directory
+.npm
+.env
